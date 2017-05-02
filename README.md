@@ -14,6 +14,7 @@ npm start
 ```js
 npm test
 ```
+- also it uses enzyme to make testing react component easier, you can remove it if you want to. it has all react testing utilities.
 
 ### To create production build
 ```js
